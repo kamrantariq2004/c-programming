@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
 int a,b,c;
-printf("Enter three numberes");
-scanf("%d %d %ds",&a ,&b, &c);
+printf("Enter three numberes ");
+scanf("%d %d %d",&a ,&b, &c);
 if (a>b)
 {
     if (a>c)
